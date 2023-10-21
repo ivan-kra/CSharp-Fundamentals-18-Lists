@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.exe
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.deps.json
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\bin\Debug\net6.0\05.BombNumbers.pdb
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\obj\Debug\net6.0\refint\05.BombNumbers.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.pdb
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\obj\Debug\net6.0\05.BombNumbers.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\05.BombNumbers\obj\Debug\net6.0\ref\05.BombNumbers.dll

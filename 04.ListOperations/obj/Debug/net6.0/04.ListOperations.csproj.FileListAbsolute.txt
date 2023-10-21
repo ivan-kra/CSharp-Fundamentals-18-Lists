@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\bin\Debug\net6.0\04.ListOperations.exe
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\bin\Debug\net6.0\04.ListOperations.deps.json
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\bin\Debug\net6.0\04.ListOperations.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\bin\Debug\net6.0\04.ListOperations.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\bin\Debug\net6.0\04.ListOperations.pdb
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\obj\Debug\net6.0\04.ListOperations.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\obj\Debug\net6.0\04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\obj\Debug\net6.0\04.ListOperations.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\obj\Debug\net6.0\04.ListOperations.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\obj\Debug\net6.0\04.ListOperations.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\obj\Debug\net6.0\04.ListOperations.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\obj\Debug\net6.0\refint\04.ListOperations.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\obj\Debug\net6.0\04.ListOperations.pdb
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\obj\Debug\net6.0\04.ListOperations.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\04.ListOperations\obj\Debug\net6.0\ref\04.ListOperations.dll
