@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\bin\Debug\net6.0\02.ChangeList.exe
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\bin\Debug\net6.0\02.ChangeList.deps.json
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\bin\Debug\net6.0\02.ChangeList.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\bin\Debug\net6.0\02.ChangeList.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\bin\Debug\net6.0\02.ChangeList.pdb
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\obj\Debug\net6.0\02.ChangeList.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\obj\Debug\net6.0\02.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\obj\Debug\net6.0\02.ChangeList.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\obj\Debug\net6.0\02.ChangeList.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\obj\Debug\net6.0\02.ChangeList.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\obj\Debug\net6.0\02.ChangeList.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\obj\Debug\net6.0\refint\02.ChangeList.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\obj\Debug\net6.0\02.ChangeList.pdb
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\obj\Debug\net6.0\02.ChangeList.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\02.ChangeList\obj\Debug\net6.0\ref\02.ChangeList.dll
