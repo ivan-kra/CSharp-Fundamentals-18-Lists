@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\bin\Debug\net6.0\07.AppendArrays.exe
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\bin\Debug\net6.0\07.AppendArrays.deps.json
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\bin\Debug\net6.0\07.AppendArrays.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\bin\Debug\net6.0\07.AppendArrays.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\bin\Debug\net6.0\07.AppendArrays.pdb
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\obj\Debug\net6.0\07.AppendArrays.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\obj\Debug\net6.0\07.AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\obj\Debug\net6.0\07.AppendArrays.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\obj\Debug\net6.0\07.AppendArrays.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\obj\Debug\net6.0\07.AppendArrays.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\obj\Debug\net6.0\07.AppendArrays.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\obj\Debug\net6.0\refint\07.AppendArrays.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\obj\Debug\net6.0\07.AppendArrays.pdb
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\obj\Debug\net6.0\07.AppendArrays.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\07.AppendArrays\obj\Debug\net6.0\ref\07.AppendArrays.dll

@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\bin\Debug\net6.0\06.CardsGame.exe
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\bin\Debug\net6.0\06.CardsGame.deps.json
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\bin\Debug\net6.0\06.CardsGame.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\bin\Debug\net6.0\06.CardsGame.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\bin\Debug\net6.0\06.CardsGame.pdb
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\obj\Debug\net6.0\06.CardsGame.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\obj\Debug\net6.0\06.CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\obj\Debug\net6.0\06.CardsGame.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\obj\Debug\net6.0\06.CardsGame.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\obj\Debug\net6.0\06.CardsGame.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\obj\Debug\net6.0\06.CardsGame.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\obj\Debug\net6.0\refint\06.CardsGame.dll
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\obj\Debug\net6.0\06.CardsGame.pdb
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\obj\Debug\net6.0\06.CardsGame.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\18 Lists - Exercise\Problems\06.CardsGame\obj\Debug\net6.0\ref\06.CardsGame.dll
